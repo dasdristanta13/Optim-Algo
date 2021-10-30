@@ -1,8 +1,6 @@
 # Optimization-Algorithm
 For learning, visualizing and understanding the optimization techniques and algorithms.
-#
-#
-#
+
 
 Visualizations and in depth concepts of the Machine Learning optimization algorithms are discussed and shown here with different functions as examples and understanding the differences by comparing  them.
 ## Over all types of Line and direction search algorithms in Gradient Descent discussed here: :shipit:
